@@ -1,3 +1,17 @@
+Package: com.seph3421.fastfetch
+Version: 2.67.1
+Section: Tweaks
+Maintainer: seph3421 <seph3421@gmail.com>
+Depends: firmware (>15.0)
+Architecture: iphoneos-arm64
+Filename: ./debs/com.seph3421.fastfetch_2.67.1_iphoneos-arm64.deb
+Size: 394
+MD5sum: 578016c7e855a2dd5b3ff1965ab9990f
+Description:Un-official native iOS port of Fastfetch.
+Name: Fastfetch
+Author: seph3421 <seph3421@gmail.com>
+Depiction: https://seph3421.github.io/Reposi3/depictions/?p=com.seph3421.fastfetch
+
 Package: com.supermamon.newpackage
 Version: 2.0.0-1
 Section: Tweaks
