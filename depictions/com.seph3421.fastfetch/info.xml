@@ -12,10 +12,18 @@
 		<description>Un-official native iOS port of Fastfetch</description>
 	</descriptionlist>
 	<screenshots>
-		<screenshot>screenshot1.png</screenshot>
-		<screenshot>screenshot2.png</screenshot>
-		<screenshot>screenshot3.png</screenshot>
-		<screenshot>screenshot4.png</screenshot>
+		<screenshot>
+			<image>screenshot1.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot3.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot4.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>
