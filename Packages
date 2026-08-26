@@ -36,11 +36,12 @@ Architecture: iphoneos-arm64
 Maintainer: Joseph <https://github.com/seph3421>
 Depends: bash
 Filename: ./debs/com.seph3421.fastfetch_2.67.1_iphoneos-arm64.deb
-Size: 403880
-MD5sum: 578016c7e855a2dd5b3ff1965ab9990f
-SHA1: 84e5cccf1542fea5ebb2ba6f0deaec8c04fe2f95
-SHA256: 043858f133052e7d82f51937a0aba0f8565a39e1d051a6fae27ec137ed47e82f
+Size: 404496
+MD5sum: 876a090e9bcbc086ff1023e0cbdd9526
+SHA1: 93295e9fad853451fa1c0b62d4ef09696e3d5e91
+SHA256: 79538ee362f973b8b771e0979b7759301aad215820de3f8254f8e13276883348
 Section: utils
 Priority: optional
 Description: Un-Official Native IOS port for Fastfetch.
+Depiction: https://seph3421.github.io/repo/depictions/?p=com.seph3421.fastfetch
 
