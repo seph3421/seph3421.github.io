@@ -1,0 +1,19 @@
+<package>
+	<id>com.seph3421.rootlessfastfetch</id>
+	<name>Fastfetch</name>
+	<version>2.67.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Un-official native iOS port of Fastfetch</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Rootful/Rootless release</change>
+	</changelog>
+	<links></links>
+</package>
