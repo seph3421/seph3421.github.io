@@ -11,7 +11,20 @@
 	<descriptionlist>
 		<description>Un-official native iOS port of Fastfetch</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<image>screenshot1.PNG</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot2.PNG</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot3.PNG</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshot4.PNG</image>
+		</screenshot>
+	</screenshots>
 	<changelog>
 		<change>Rootful/Rootless release</change>
 	</changelog>
