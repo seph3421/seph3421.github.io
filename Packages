@@ -32,14 +32,29 @@ Name: Old Package
 
 Package: fastfetch
 Version: 2.67.1
+Architecture: iphoneos-arm
+Maintainer: Joseph <https://github.com/seph3421>
+Depends: bash
+Filename: ./debs/com.seph3421.rootfulfastfetch_2.67.1_iphoneos-arm.deb
+Size: 401988
+MD5sum: d15adf38e05a5bd67981913e3e51cfe5
+SHA1: 5de5696e3a8b6036bbaf019d4caf303c8af93238
+SHA256: 7399acb685a2b360fcd1b1075eff1647e2d595a06704b9be79c41485cf0a292d
+Section: utils
+Priority: optional
+Description: Un-Official Native IOS port for Fastfetch.
+Depiction: https://seph3421.github.io/repo/depictions/?p=com.seph3421.fastfetch
+
+Package: fastfetch
+Version: 2.67.1
 Architecture: iphoneos-arm64
 Maintainer: Joseph <https://github.com/seph3421>
 Depends: bash
-Filename: ./debs/com.seph3421.fastfetch_2.67.1_iphoneos-arm64.deb
-Size: 404496
-MD5sum: 876a090e9bcbc086ff1023e0cbdd9526
-SHA1: 93295e9fad853451fa1c0b62d4ef09696e3d5e91
-SHA256: 79538ee362f973b8b771e0979b7759301aad215820de3f8254f8e13276883348
+Filename: ./debs/com.seph3421.rootlessfastfetch_2.67.1_iphoneos-arm64.deb
+Size: 398984
+MD5sum: b9f40bcd7a68a73004b58c3d5c0635ea
+SHA1: 0c724542240574d997c5c392581b8c7834873f41
+SHA256: a98d753f71de677af2400907caf7f32f94f445460e071c019abd634e9520c985
 Section: utils
 Priority: optional
 Description: Un-Official Native IOS port for Fastfetch.
